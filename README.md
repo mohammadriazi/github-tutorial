@@ -6,4 +6,5 @@ To set username and email in git:
 
 `$ git config --globbal user.email "your@email.com"`
 
-
+Lists the config settings:
+`$ git config --global --list
